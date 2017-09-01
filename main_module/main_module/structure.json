@@ -1,0 +1,54 @@
+{
+  "submodule1": {
+    "file1": {
+      "Hallo": {
+        "__init__": [
+          "name"
+        ],
+        "__repr__": [],
+        "polite": [
+          "toto",
+          "t=3",
+          "**kwargs"
+        ],
+        "test": []
+      },
+      "bonjour": [
+        "x"
+      ],
+      "hello": [
+        "y",
+        "x",
+        "z=1",
+        "**kwargs"
+      ]
+    },
+    "file2": {
+      "goodbye": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "submodule2": {
+    "file3": {
+      "bonjour": [
+        "x"
+      ],
+      "hello": [
+        "y",
+        "x",
+        "z=1",
+        "**kwargs"
+      ]
+    },
+    "file4": {
+      "goodbye": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  }
+}

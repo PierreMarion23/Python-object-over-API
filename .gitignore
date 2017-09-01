@@ -1,0 +1,4 @@
+*.p[cod]
+__pycache__
+.vs_code
+.ipynb_checkpoints

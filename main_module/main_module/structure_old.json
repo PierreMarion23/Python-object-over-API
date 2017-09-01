@@ -1,0 +1,26 @@
+{
+    "submodule1": {
+        "file1": {
+            "hello": ["y", "x", "z=1", "**kwargs"], 
+            "bonjour": ["x"],
+            "Hallo": {
+                "init": ["name"],
+                "polite": ["toto", "t=3", "**kwargs"],
+                "test": []
+            },
+            "print": ["obj"]
+        }, 
+        "file2":{
+            "goodbye": ["x", "y", "z"]
+        }
+    },
+    "submodule2": {
+        "file3": {
+            "hello":["y", "x", "z=1", "**kwargs"], 
+            "bonjour":["x"]
+        }, 
+        "file4": {
+            "goodbye": ["x", "y", "z"]
+        }
+    }
+}
