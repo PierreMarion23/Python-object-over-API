@@ -21,6 +21,5 @@ To add your newly created env to Jupyter env list:
 
 ```bat
 activate object-over-api
-pip install ipykernel
 python -m ipykernel install --user --name object-over-api --display-name "Python object-over-api"
 ```

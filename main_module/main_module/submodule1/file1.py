@@ -11,14 +11,14 @@ class Hallo():
     def __init__(self, name):
         self.name = name
 
-        self.polite('a')
+        self.polite('!')
 
     def __repr__(self):
-        return "Je m'appelle " + self.name
+        return "My name is " + self.name
 
     def polite(self, toto, t=3, **kwargs):
         self.sentence = "Hallo " + self.name + " " + toto
-        return "toto " + toto
+        return "Welcome to my nice hotel, Mr " + toto
     
     def test(self):
         return self.name
