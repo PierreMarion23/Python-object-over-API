@@ -103,7 +103,7 @@ python main_module/run.py
 
 Launch [Jupyter](http://jupyter.org/):
 ```bash
-Jupyter notebook
+jupyter notebook
 ```
 
 Run the [demo notebook]().  
