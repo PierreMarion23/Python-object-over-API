@@ -106,6 +106,6 @@ Launch [Jupyter](http://jupyter.org/):
 jupyter notebook
 ```
 
-Run the [demo notebook]().  
+Run the [demo notebook](http://nbviewer.jupyter.org/github/PierreMarion23/Python-object-over-API/blob/master/demo_Python-object-over-API.ipynb).  
 There should be enough comments and prints to understand what is going on.  
 Read the server logs too. It is verbose.
