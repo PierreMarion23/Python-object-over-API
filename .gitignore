@@ -2,3 +2,7 @@
 __pycache__
 .vs_code
 .ipynb_checkpoints
+.vscode
+
+*.yml
+*.yaml
