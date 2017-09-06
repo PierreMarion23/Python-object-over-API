@@ -70,8 +70,8 @@ class ExplorationApi(Resource):
     '''
 
     def get(self):
-        current_path = os.path.dirname(os.path.abspath(__file__))
-        json_path = current_path.replace('api', 'structure.json')
+        here = os.path.dirname(os.path.abspath(__file__))
+        json_path = os.path.join(os.path.dirname(here), 'structure.json')
 
         if os.path.exists(json_path):
             with open(json_path) as json_data:
