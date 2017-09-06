@@ -3,6 +3,7 @@ __pycache__
 .vs_code
 .ipynb_checkpoints
 .vscode
+.DS_Store
 
 *.yml
 *.yaml
